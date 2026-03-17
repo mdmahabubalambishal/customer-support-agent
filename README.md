@@ -1,13 +1,6 @@
----
-title: Customer Support AI Agent
-
 # 🤖 Customer Support AI Agent
 
 An intelligent customer support agent built with **LangGraph**, **RAG**, and **Web Search** that handles customer queries in Bengali, English, and Banglish — automatically routing to the most appropriate response source.
-
-🔗 **Live Demo:** [huggingface.co/spaces/mahabub-unlocked/customer-support-agent](https://huggingface.co/spaces/mahabub-unlocked/customer-support-agent)
-
-🔗 **GitHub:** [github.com/mdmahabubalambishal/customer-support-agent](https://github.com/mdmahabubalambishal/customer-support-agent)
 
 ---
 
@@ -245,9 +238,6 @@ This project is licensed under the MIT License.
 
 **Md Mahabub Alam Bishal**
 - LLM & Generative AI Enthusiast
-- 🔗 [GitHub](https://github.com/mdmahabubalambishal)
-- 🔗 [Hugging Face](https://huggingface.co/mahabub-unlocked)
-
 ---
 
 ## 🙏 Acknowledgements
@@ -258,3 +248,7 @@ This project is licensed under the MIT License.
 - [Tavily](https://tavily.com) — AI-powered web search
 - [ChromaDB](https://chromadb.com) — Vector database
 - [Streamlit](https://streamlit.io) — UI framework
+
+
+**Live Demo:** [huggingface.co/spaces/mahabub-unlocked/customer-support-agent](https://huggingface.co/spaces/mahabub-unlocked/customer-support-agent)
+🔗 **GitHub:** [github.com/mdmahabubalambishal/customer-support-agent](https://github.com/mdmahabubalambishal/customer-support-agent)
