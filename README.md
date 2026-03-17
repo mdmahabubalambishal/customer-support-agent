@@ -1,3 +1,15 @@
+---
+title: Customer Support AI Agent
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: streamlit
+sdk_version: "1.40.0"
+python_version: "3.11"
+app_file: app.py
+pinned: false
+---
+
 # 🤖 Customer Support AI Agent
 
 An intelligent customer support agent built with **LangGraph**, **RAG**, and **Web Search** that handles customer queries in Bengali, English, and Banglish — automatically routing to the most appropriate response source.
