@@ -1,0 +1,83 @@
+## Order Placement
+
+Customers can place orders by adding items to the cart and proceeding to checkout.
+You need a registered account or can checkout as a guest.
+After placing an order, a confirmation email and SMS will be sent within 5 minutes.
+Each order receives a unique Order ID which can be used for tracking and support.
+Orders are accepted 24 hours a day, 7 days a week.
+Minimum order value is 200 BDT for standard delivery.
+
+Keywords: order debo kibabe, order korbo, checkout, cart, order place, অর্ডার করতে চাই, order confirm, how to order
+
+---
+
+## Order Confirmation
+
+After placing an order, you will receive a confirmation email and SMS.
+If you do not receive confirmation within 10 minutes, check your spam folder.
+Order confirmation contains your Order ID, item list, and estimated delivery date.
+If payment was deducted but no confirmation received, contact support immediately.
+Confirmation can also be viewed in your account under "My Orders" section.
+
+Keywords: order confirm hoyeche ki, confirmation email, order id, অর্ডার কনফার্ম, SMS আসেনি, confirmation pailam na
+
+---
+
+## Order Tracking
+
+Track your order by visiting our website and going to "My Orders" section.
+Enter your Order ID and registered phone number on the tracking page.
+A tracking number from our courier partner is sent via SMS after dispatch.
+Tracking updates are refreshed every 12 hours.
+If tracking shows "Out for Delivery" but not received by end of day, contact support.
+If tracking shows "Delivered" but item not received, report within 48 hours.
+
+Keywords: track order, order kothay, order status, tracking number, অর্ডার ট্র্যাক, কোথায় আছে আমার অর্ডার, delivery status, parcel status
+
+---
+
+## Order Modification
+
+Orders can be modified within 2 hours of placement if not yet processed.
+Modifications include: changing size, color, quantity, or delivery address.
+To modify, contact support immediately with your Order ID and required changes.
+Once an order is packed or shipped, modifications are not possible.
+Adding new items to an existing order is not supported; place a new order instead.
+
+Keywords: order change korte chai, size change, address change, quantity change, অর্ডার পরিবর্তন, modify order, order edit
+
+---
+
+## Order Cancellation
+
+Orders can be cancelled within 24 hours of placement if not yet shipped.
+To cancel, go to "My Orders" and click "Cancel Order" or contact support.
+Once an order is shipped, it cannot be cancelled — you must request a return instead.
+Cancelled order refunds are processed within 3-5 business days.
+For prepaid orders, refund goes back to original payment method.
+Cash on delivery orders have no cancellation charge.
+
+Keywords: order cancel korte chai, cancel order, অর্ডার বাতিল করতে চাই, cancel hobe ki, order cancel, refund after cancel
+
+---
+
+## Wrong or Missing Item
+
+If you received a wrong item, report within 48 hours of delivery with photo proof.
+Missing items from an order must be reported within 24 hours of delivery.
+Send photos of the received item and packaging to support@company.com.
+We will arrange a free return pickup and send the correct item within 3-5 days.
+Full refund is also available if replacement is not preferred.
+
+Keywords: wrong item, ভুল প্রোডাক্ট পেয়েছি, missing item, অর্ডার অসম্পূর্ণ, item nai, wrong product, incorrect item delivered
+
+---
+
+## Duplicate Order
+
+If a duplicate order was placed accidentally, contact support immediately.
+Duplicate orders can be cancelled free of charge within 24 hours.
+If payment was charged twice, refund for the duplicate will be processed in 3-5 days.
+To avoid duplicates, do not click the order button multiple times.
+
+Keywords: double order, duplicate order, same order twice, একই অর্ডার দুইবার, accidental order, extra order cancel

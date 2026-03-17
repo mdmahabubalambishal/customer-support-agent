@@ -1,0 +1,86 @@
+## Account Registration
+
+Create an account by clicking "Sign Up" on our website or app.
+Registration requires a valid email address and Bangladeshi phone number.
+OTP verification is required for both email and phone during registration.
+One account per person is allowed — multiple accounts may be suspended.
+Registration is free and takes less than 2 minutes.
+You can also register using your Google or Facebook account.
+
+Keywords: account create, registration, sign up, নতুন account খুলবো, account khulbo kibabe, register korbo
+
+---
+
+## Login Issues
+
+If you cannot log in, first try resetting your password.
+Make sure you are using the email or phone number used during registration.
+Try using a different browser or incognito mode if login fails.
+If account is locked after multiple failed attempts, wait 30 minutes before retrying.
+For persistent login issues, contact support with your registered email or phone.
+Avoid logging in from multiple devices simultaneously.
+
+Keywords: login hocche na, লগইন সমস্যা, cant login, password forgot, account access, sign in problem
+
+---
+
+## Password Reset
+
+Click "Forgot Password" on the login page.
+Enter your registered email address or phone number.
+OTP will be sent to your email and phone within 2 minutes.
+Enter the OTP and set a new password.
+New password must be at least 8 characters with one number and one letter.
+Password reset link expires after 15 minutes.
+If OTP not received, check spam folder or request again after 2 minutes.
+
+Keywords: password reset, পাসওয়ার্ড ভুলে গেছি, password change, forgot password, নতুন পাসওয়ার্ড, OTP aseni
+
+---
+
+## Profile Update
+
+Update your profile by going to "My Account" and clicking "Edit Profile".
+You can update: name, email, phone number, and profile picture.
+Phone number change requires OTP verification on new number.
+Email change requires verification on new email address.
+Changes are saved immediately after verification.
+
+Keywords: profile update, name change, phone number change, email change, account edit, তথ্য পরিবর্তন
+
+---
+
+## Delivery Address Management
+
+Save multiple delivery addresses in your account for faster checkout.
+Go to "My Account" and click "Manage Addresses" to add or edit addresses.
+You can set a default address for quick ordering.
+Address can also be changed during checkout before order confirmation.
+Up to 5 addresses can be saved per account.
+
+Keywords: address add, ঠিকানা পরিবর্তন, delivery address, new address, address save, address update
+
+---
+
+## Account Security
+
+We recommend enabling two-factor authentication for account security.
+Never share your OTP or password with anyone including our support team.
+Our support team will never ask for your password.
+If you suspect unauthorized access, change password immediately and contact support.
+Suspicious login alerts are sent via email and SMS automatically.
+
+Keywords: account security, হ্যাক হয়েছে, unauthorized access, account safe, two factor, account compromised
+
+---
+
+## Account Deletion
+
+To delete your account, go to "My Account" and click "Delete Account".
+Account deletion is permanent and cannot be undone.
+All order history and personal data will be removed within 30 days.
+Pending orders must be completed or cancelled before account deletion.
+Unused wallet balance must be withdrawn before deletion.
+Contact support if you want to temporarily deactivate instead of delete.
+
+Keywords: account delete, account বন্ধ করতে চাই, account deactivate, remove account, delete my account

@@ -1,0 +1,62 @@
+## App Issues
+
+Download our app from Google Play Store or Apple App Store.
+If our app is crashing, update to the latest version first.
+Uninstall and reinstall our app if crashes continue after update.
+Our app requires Android 8.0 or iOS 13 and above.
+Contact support if our app issues persist after reinstallation.
+
+Keywords: our app crash, our app problem, our app not working,
+our app update, app reinstall, app install
+
+---
+
+## OTP Not Received
+
+OTP is sent within 60 seconds via SMS and email.
+Check spam or junk folder for email OTP.
+Ensure mobile number has signal and is not on DND.
+Request OTP again after 2 minutes if not received.
+If mobile OTP is not working, try email OTP option.
+Contact support if issue continues for more than 10 minutes.
+
+Keywords: OTP aseni, OTP problem, verification code, OTP not received,
+কোড পাচ্ছি না, SMS aseni
+
+---
+
+## Cart and Checkout Issues
+
+If items are not adding to cart on our website, refresh the page and try again.
+Cart items may be removed if a product goes out of stock.
+If our checkout page has issues, try a different browser.
+Payment page error on our site: try a different payment method.
+Do not press back button during payment processing on our website.
+
+Keywords: cart problem, add to cart hocche na, checkout problem,
+payment page issue, order dite parchi na, our website problem
+
+---
+
+## Search and Filter Issues
+
+If search on our website is not showing results, check for spelling errors.
+Use general keywords instead of very specific phrases for better results.
+Filter options reset after leaving the page, reapply filters as needed.
+Newly added products may take up to 2 hours to appear in search results.
+
+Keywords: search kaj korche na, product khuje pacchi na, filter problem,
+search result nai, cant find product on our website
+
+---
+
+## Notification Issues
+
+Enable notifications in our app settings to receive order updates.
+SMS notifications are sent to your registered phone number automatically.
+Email notifications may go to spam, add our email to your contacts.
+To change notification preferences go to My Account then Notification Settings.
+Push notifications require app permission for our app.
+
+Keywords: notification আসছে না, update পাচ্ছি না, SMS notification,
+email notification, order update, our app notification

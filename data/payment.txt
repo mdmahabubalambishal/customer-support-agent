@@ -1,0 +1,89 @@
+## Accepted Payment Methods
+
+We accept the following payment methods:
+Credit cards: Visa, Mastercard, American Express.
+Debit cards from all major banks in Bangladesh.
+Mobile banking: bKash, Nagad, Rocket, and Upay.
+Cash on Delivery (COD) is available for orders within Bangladesh.
+Bank transfer is available for orders above 5000 BDT.
+All online payments are secured with 256-bit SSL encryption.
+
+Keywords: payment method, কিভাবে পেমেন্ট করবো, bkash, nagad, rocket, cash on delivery, COD, card payment, কোন পেমেন্ট accept করে
+
+---
+
+## Cash on Delivery
+
+Cash on Delivery is available for all areas in Bangladesh.
+COD orders require exact change as couriers may not carry change.
+COD is not available for orders above 10,000 BDT.
+COD orders take slightly longer to process than prepaid orders.
+Repeated COD order cancellations may result in COD being disabled for your account.
+
+Keywords: ক্যাশ অন ডেলিভারি, cash on delivery, COD available, দেখে পেমেন্ট করবো, delivery te taka debo
+
+---
+
+## Payment Failed
+
+If your payment failed, do not attempt the transaction again immediately.
+Wait 10 minutes and check your bank account or mobile banking for deduction.
+If money was deducted but order not confirmed, contact support with transaction ID.
+Failed payment refunds are processed within 5-7 business days automatically.
+Common reasons for payment failure: wrong OTP, insufficient balance, bank server issues.
+Try a different payment method if the issue persists.
+
+Keywords: payment failed, পেমেন্ট হয়নি, টাকা কেটে গেছে কিন্তু অর্ডার হয়নি, transaction failed, payment error, bkash theke kete geche
+
+---
+
+## Refund Policy
+
+Refunds are issued for: cancelled orders, returned items, and payment errors.
+Refund timeline depends on payment method:
+  - bKash, Nagad, Rocket: 1-3 business days
+  - Credit/Debit Card: 5-7 business days
+  - Bank Transfer: 7-10 business days
+  - COD orders: refunded via bKash or bank transfer within 5 days.
+Refund confirmation is sent via email and SMS.
+If refund not received within timeline, contact support with Order ID.
+
+Keywords: refund, টাকা ফেরত, কবে টাকা পাবো, refund kobe pabo, money back, রিফান্ড, refund status
+
+---
+
+## Invoice and Receipt
+
+Digital invoice is automatically sent to your registered email after purchase.
+Invoice can also be downloaded from "My Orders" section in your account.
+For VAT invoice requests, contact support with your Order ID and company details.
+Physical invoice is included inside the delivery package.
+Invoice re-sending can be requested by contacting support.
+
+Keywords: invoice, receipt, কাগজ, bill, ভ্যাট, VAT invoice, invoice download, purchase proof
+
+---
+
+## EMI Options
+
+EMI is available on orders above 3000 BDT with selected credit cards.
+Supported banks for EMI: BRAC Bank, Dutch Bangla, City Bank, Standard Chartered.
+EMI tenures available: 3, 6, and 12 months.
+Zero interest EMI is available on selected products during promotional periods.
+EMI option appears at checkout if your card is eligible.
+Contact your bank directly for EMI-related issues after order placement.
+
+Keywords: EMI, কিস্তি, installment, মাসিক কিস্তি, emi available, credit card emi, kisti te kinte chai
+
+---
+
+## Discount Codes and Vouchers
+
+Discount codes can be applied at checkout in the "Promo Code" field.
+Each promo code can be used once per account unless stated otherwise.
+Promo codes are case-sensitive — enter exactly as provided.
+Codes cannot be applied after order placement.
+If a valid code is not working, contact support with the code and screenshot.
+Promo codes cannot be combined with other offers unless specified.
+
+Keywords: discount code, promo code, voucher, coupon, ছাড়, কোড কাজ করছে না, promo apply korbo kibabe, offer code

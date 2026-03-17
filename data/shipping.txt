@@ -1,0 +1,74 @@
+## Shipping Options
+
+We offer two shipping options: Standard and Express delivery.
+Standard shipping takes 5-7 business days and costs 60 BDT.
+Express shipping takes 1-2 business days and costs 120 BDT.
+Free standard shipping is available on orders above 1000 BDT.
+Same-day delivery is available in Dhaka for orders placed before 11 AM.
+Same-day delivery costs 150 BDT and is limited to selected areas.
+
+Keywords: shipping cost, delivery charge, কত টাকা লাগবে ডেলিভারিতে, express delivery, same day delivery, শিপিং চার্জ, delivery fee,শিপিং চার্জ, ডেলিভারি চার্জ, শিপিং খরচ, 
+কত টাকা লাগবে, shipping charge, delivery charge
+
+---
+
+## Delivery Areas
+
+We deliver to all 64 districts of Bangladesh.
+Dhaka city delivery takes 1-3 business days.
+Outside Dhaka delivery takes 3-7 business days.
+Remote areas may take up to 10 business days.
+Check if your area is serviceable by entering your postal code on the website.
+International shipping is currently not available.
+
+Keywords: আমার এলাকায় deliver করে, delivery area, কোথায় deliver করে, district delivery, outside dhaka, বাংলাদেশের বাইরে
+
+---
+
+## Shipping and Dispatch
+
+Orders are processed and dispatched within 24 hours of confirmation.
+Dispatch confirmation with tracking number is sent via SMS and email.
+Orders placed on Friday after 5 PM are dispatched on Sunday.
+Public holidays may cause 1-2 day delays in dispatch.
+Bulk orders above 10 items may take 48 hours to dispatch.
+
+Keywords: কখন পাঠাবে, dispatch hobe kobe, shipped hoyeche ki, tracking number kobe pabo, order processing time
+
+---
+
+## Courier Partners
+
+We use Pathao, Paperfly, Sundarban, and RedX as our courier partners.
+Courier partner is assigned based on your delivery area.
+You can see your assigned courier in the tracking page after dispatch.
+For courier-specific complaints, we will handle them on your behalf.
+Do not contact courier directly for complaints — always contact our support.
+
+Keywords: courier company, pathao, paperfly, sundarban, redx, কোন কুরিয়ারে পাঠাবে, courier name
+
+---
+
+## Delivery Attempt and Failed Delivery
+
+Our courier will attempt delivery up to 3 times.
+If not available, the courier will call before the next attempt.
+After 3 failed attempts, the order returns to our warehouse.
+Returned orders will be reshipped upon customer request within 7 days.
+Additional shipping charges may apply for reshipping.
+Ensure your phone number and address are correct when placing the order.
+
+Keywords: delivery hoyni, courier aseni, missed delivery, deliver korte pareni, failed delivery, বাসায় ছিলাম না
+
+---
+
+## Damaged During Shipping
+
+If product is damaged during shipping, report within 24 hours of delivery.
+Take photos of the damaged packaging and product before opening fully.
+Send photos to support@company.com with your Order ID.
+We will arrange free return pickup and send a replacement within 3-5 days.
+Full refund is available if replacement is not preferred.
+Damaged items should not be used or disposed of before resolution.
+
+Keywords: damaged product, ভাঙা অবস্থায় পেয়েছি, shipping damage, product nosto, damaged parcel, box damaged
