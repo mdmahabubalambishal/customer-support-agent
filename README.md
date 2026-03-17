@@ -1,6 +1,13 @@
+---
+title: Customer Support AI Agent
+
 # 🤖 Customer Support AI Agent
 
 An intelligent customer support agent built with **LangGraph**, **RAG**, and **Web Search** that handles customer queries in Bengali, English, and Banglish — automatically routing to the most appropriate response source.
+
+🔗 **Live Demo:** [huggingface.co/spaces/mahabub-unlocked/customer-support-agent](https://huggingface.co/spaces/mahabub-unlocked/customer-support-agent)
+
+🔗 **GitHub:** [github.com/mdmahabubalambishal/customer-support-agent](https://github.com/mdmahabubalambishal/customer-support-agent)
 
 ---
 
@@ -53,7 +60,7 @@ Customer Query (Bengali / English / Banglish)
 | Agent Framework | LangGraph |
 | LLM | Groq (Llama 3.1 8B) |
 | Vector Store | ChromaDB |
-| Embeddings | sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 |
+| Embeddings | paraphrase-multilingual-MiniLM-L12-v2 |
 | Web Search | Tavily API |
 | UI | Streamlit |
 | Language | Python 3.11 |
@@ -103,7 +110,13 @@ customer-support-agent/
 - Groq API Key — [Get free key](https://console.groq.com)
 - Tavily API Key — [Get free key](https://tavily.com)
 
-###1. Installation
+### Installation
+
+**1. Clone the repository**
+```bash
+git clone https://github.com/mdmahabubalambishal/customer-support-agent.git
+cd customer-support-agent
+```
 
 **2. Create virtual environment**
 ```bash
@@ -203,22 +216,6 @@ llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
 ---
 
-## 🌐 Deployment
-
-### Deploy on Streamlit Cloud (Free)
-
-1. Push code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repository
-4. Add secrets in Streamlit Cloud settings:
-   ```
-   GROQ_API_KEY = "your_key"
-   TAVILY_API_KEY = "your_key"
-   ```
-5. Deploy!
-
----
-
 ## 📈 Performance
 
 - **Knowledge Base queries:** ~1-2 seconds response time
@@ -246,9 +243,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Mahabub**
-- Junior AI Engineer | LLM & Generative AI Enthusiast
-- Built with LangGraph, RAG, and Streamlit
+**Md Mahabub Alam Bishal**
+- LLM & Generative AI Enthusiast
+- 🔗 [GitHub](https://github.com/mdmahabubalambishal)
+- 🔗 [Hugging Face](https://huggingface.co/mahabub-unlocked)
 
 ---
 
